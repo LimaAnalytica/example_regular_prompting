@@ -1,2 +1,2 @@
 # example_regular_prompting
-Este es un ejemplo de regular prompting, la cual es la forma más básica de interactuar con un modelo de lenguaje, donde simplemente haces una pregunta o das una instrucción directa. Por ejemplo: "¿Cuál es la capital de Francia?" "Escribe un poema sobre el mar"
+This is an example of regular prompting, which is the most basic form of interacting with a language model, where you simply ask  a question or give a direct instruction. For example, "What is the capital of France?" "Write a poem about the sea".
